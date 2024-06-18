@@ -1,4 +1,4 @@
-Sure! Here's a detailed `README.md` for a Credit Risk Analysis project:
+
 
 # Credit Risk Analysis
 
