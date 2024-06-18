@@ -51,7 +51,7 @@ The models are evaluated using the following metrics:
 
 Your Name - achyuthkumarak4756@gmail.com
 
-Project Link: [https://github.com/yourusername/credit-risk-analysis](https://github.com/Achyuthkumar4756/credit-risk-analysis)
+Project Link: [https://github.com/Achyuthkumar4756/credit-risk-analysis](https://github.com/Achyuthkumar4756/credit-risk-analysis)
 ```
 
 Feel free to customize this template according to your project's specific details and requirements.
